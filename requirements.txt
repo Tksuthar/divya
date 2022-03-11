@@ -1,0 +1,12 @@
+flask~=2.0.2
+pymongo~=4.0.1
+azure.identity
+azure.keyvault.secrets
+azure.cosmos
+azure.mgmt.datafactory
+azure.mgmt.resource
+azure.identity
+azure~=4.0.0
+flask-cors
+pyodbc~=4.0.32
+DateTime~=4.3
